@@ -1,0 +1,18 @@
+.div1 h2{
+    color: powderblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-display: fallback;
+    background-color: dodgerblue;
+    border-width: 2px;
+    border-radius: 5px;
+    margin-top:10px;
+
+
+}
+
+.div1 button{
+    flood-color: dodgerblue;
+    text-decoration-color: powderblue;
+    padding-left: 3px;
+    margin-top:30px;
+}
